@@ -1,0 +1,100 @@
+
+body
+{
+    background: rgb(194, 194, 194) url("img/gb1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 110%;
+    background-color: black;
+    
+}
+html,body{
+    position: relative;
+    height: 100%;
+}
+
+.login-container{
+    border-radius: 20px;
+    position: relative;
+    width: 300px;
+    margin: 80px auto;
+    padding: 20px 40px 40px;
+    text-align: center;
+    background: transparent;
+    border: 1px solid rgb(53, 53, 53);
+}
+
+#output{
+    position: absolute;
+    width: 300px;
+    top: -75px;
+    left: 0;
+    color: #fff;
+}
+
+#output.alert-success{
+    background: rgb(25, 204, 25);
+}
+
+#output.alert-danger{
+    background: rgb(228, 105, 105);
+}
+
+
+.btn-login
+{   
+    background-color: rgb(83, 83, 83);
+    padding: 10px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+
+
+.avatar{
+    background-image: url("img/avatar.png");
+    width: 100px;height: 100px;
+    margin: 10px auto 30px;
+    border-radius: 100%;
+    border: 2px solid rgb(0, 0, 0);
+    background-size: cover;
+}
+
+.entradas input{
+    
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    height:40px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px ;
+    border: 1px solid rgb(0, 0, 0);;
+    background: rgb(61, 61, 61) ;
+    transition:0.2s ease-in-out;
+
+}
+
+.form-box input:focus{
+    outline: 0;
+    background: rgb(255, 255, 255);
+}
+
+.form-box input[type="text"]{
+    border-radius: 5px 5px 0 0;
+    text-transform: lowercase;
+}
+
+.form-box input[type="password"]{
+    border-radius: 0 0 5px 5px;
+    border-top: 0;
+}
+
+.form-box button.login{
+    margin-top:15px;
+    padding: 10px 20px;
+}
+
+
+
+
