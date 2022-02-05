@@ -1,9 +1,9 @@
 # DEV WEB
-![Badge](https://img.shields.io/github/stars/WendellTMO/DevWeb-PBTec)
+![Badge](https://img.shields.io/github/stars/IDarkStorm/ProjetoDoCurso)
 ![Badge](https://img.shields.io/github/languages/code-size/badges/shields)
-![Badge](https://img.shields.io/github/issues/WendellTMO/DevWeb-PBTec)
-![Badge](https://img.shields.io/github/forks/WendellTMO/DevWeb-PBTec)
-![Badge](https://img.shields.io/github/license/WendellTMO/DevWeb-PBTec)
+![Badge](https://img.shields.io/github/issues/IDarkStorm/ProjetoDoCurso)
+![Badge](https://img.shields.io/github/forks/IDarkStorm/ProjetoDoCurso)
+![Badge](https://img.shields.io/github/license/IDarkStorm/ProjetoDoCurso)
 ![Alunas do Curso](https://i.ibb.co/dgC5HPy/cursos-de-f-rias-capa-classroom-1.png)
 # Desenvolvimento Web: CRIE SITES DO ZERO
 Meu repositorio do curso
